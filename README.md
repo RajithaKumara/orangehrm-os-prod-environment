@@ -1,5 +1,11 @@
 # OrangeHRM Open Source Docker Environment
 
+## Supported tags and respective Dockerfile links
+
+- [`4.3-apache`, `latest` (*apache/Dockerfile*)](https://github.com/RajithaKumara/orangehrm-os-prod-environment/blob/4.3/apache/Dockerfile)
+- [`4.3-fpm` (*fpm/Dockerfile*)](https://github.com/RajithaKumara/orangehrm-os-prod-environment/blob/4.3/fpm/Dockerfile)
+- [`4.3-fpm-alpine` (*fpm-alpine/Dockerfile*)](https://github.com/RajithaKumara/orangehrm-os-prod-environment/blob/4.3/fpm-alpine/Dockerfile)
+
 ## How to use this image
 #### Without docker-compose
 ```bash
